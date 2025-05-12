@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** profesional para tu proyecto en GitHub/GitLab, con detalles técnicos, instrucciones de instalación y créditos:
-
----
-
 # 🚀 Galactica - Shooter Espacial en Python   
 
 Un juego arcade estilo *shooter* espacial desarrollado con **Python** y **Pygame**, donde controlas una nave para destruir meteoros y sobrevivir el mayor tiempo posible.
@@ -72,7 +68,7 @@ galactica/
 - **Artistas**:  
   - Sprites: [Kenney.nl](https://kenney.nl/) (CC0 1.0 Universal).  
   - Música: [DJ Synth Wave](https://musiccompositionhacks.blogspot.com/) (licencia personalizada, ver enlace original).  
-- **Desarrollador**: [Fabricio González] - ¡Conéctate en [LinkedIn](https://www.linkedin.com/in/fabriciogonzalezguasque/)](#)!  
+- **Desarrollador**: **Fabricio González** - ¡Conéctate en [LinkedIn](https://www.linkedin.com/in/fabriciogonzalezguasque/)]!  
 
 ---
 
